@@ -34,3 +34,30 @@ I wrote the ticket office program and tested different ages, days, and student a
 
 ### Why does the order of the rules matter?
 The rules are checked from top to bottom. For example, a 10-year-old student must get the Child discount, so the Child rule must come before the Student rule. 
+
+
+## Week 4 - Lucky Fortune Generator 🍀
+
+For Week 4, I created a simple Python program called **Lucky Fortune Generator**.
+
+The program:
+- asks the user's name
+- shows the current date
+- generates a random lucky number
+- generates a random lucky color
+- gives a random luck score
+- gives a result based on the luck score
+
+### Libraries Used
+
+- `random`
+- `datetime`
+
+### Python Topics Used
+
+- Variables
+- Input and output
+- Lists
+- Functions
+- `if / elif / else`
+- Random choices and numbers
