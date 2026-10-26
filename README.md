@@ -61,3 +61,19 @@ The program:
 - Functions
 - `if / elif / else`
 - Random choices and numbers
+## Week 5 - Reusable Shipping Quote
+
+The program uses separate functions to calculate:
+
+- Subtotal
+- Discount rate
+- Shipping fee
+- Final total
+
+I tested the functions with two different sample orders. The same calculation functions are reused for both orders.
+
+### File
+
+`week05/lab05_shipping_quote.py`
+
+This lab helped me practice using functions and reusing code instead of repeating the same calculations.
